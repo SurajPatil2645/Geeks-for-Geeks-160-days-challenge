@@ -18,6 +18,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -27,4 +28,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
