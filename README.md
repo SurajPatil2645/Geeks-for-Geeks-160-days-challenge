@@ -19,10 +19,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -32,4 +34,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
