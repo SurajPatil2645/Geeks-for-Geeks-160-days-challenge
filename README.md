@@ -21,6 +21,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0001-two-sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
