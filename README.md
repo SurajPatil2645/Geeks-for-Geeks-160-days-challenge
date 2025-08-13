@@ -41,6 +41,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
 ## Binary Search
 |  |
@@ -65,4 +66,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
