@@ -13,6 +13,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
