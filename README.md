@@ -24,6 +24,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0001-two-sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0027-remove-element) |
@@ -74,8 +75,13 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
