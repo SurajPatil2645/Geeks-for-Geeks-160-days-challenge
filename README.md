@@ -78,6 +78,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0005-longest-palindromic-substring](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0014-longest-common-prefix) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
