@@ -14,6 +14,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0002-add-two-numbers](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0013-roman-to-integer) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0001-two-sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0013-roman-to-integer) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
 ## Binary Search
 |  |
@@ -77,6 +79,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0014-longest-common-prefix) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
