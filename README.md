@@ -33,6 +33,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0136-single-number) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
 ## Divide and Conquer
 |  |
@@ -97,5 +98,6 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0136-single-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
