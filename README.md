@@ -16,11 +16,13 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0009-palindrome-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0050-powx-n) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
