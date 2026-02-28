@@ -37,6 +37,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0238-product-of-array-except-self) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
 ## Divide and Conquer
 |  |
@@ -104,4 +105,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0136-single-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0136-single-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
