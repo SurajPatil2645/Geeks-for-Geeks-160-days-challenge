@@ -34,6 +34,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0015-3sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0033-search-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
