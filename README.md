@@ -105,6 +105,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0014-longest-common-prefix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
@@ -124,4 +125,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
