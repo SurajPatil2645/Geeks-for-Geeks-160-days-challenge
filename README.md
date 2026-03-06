@@ -63,6 +63,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0013-roman-to-integer) |
+| [0567-permutation-in-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0567-permutation-in-string) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +110,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0014-longest-common-prefix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -115,6 +118,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |
