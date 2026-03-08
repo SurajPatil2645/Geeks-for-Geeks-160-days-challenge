@@ -37,6 +37,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0031-next-permutation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
@@ -144,4 +146,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
