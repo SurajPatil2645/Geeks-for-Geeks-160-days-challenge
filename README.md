@@ -43,6 +43,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
@@ -51,6 +52,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0004-median-of-two-sorted-arrays](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
@@ -150,4 +153,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
