@@ -32,6 +32,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0011-container-with-most-water](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0031-next-permutation) |
@@ -84,6 +85,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0005-longest-palindromic-substring](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0031-next-permutation) |
@@ -102,6 +104,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0088-merge-sorted-array) |
 ## Counting
