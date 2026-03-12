@@ -17,6 +17,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0012-integer-to-roman](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -160,4 +162,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
