@@ -19,6 +19,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0050-powx-n](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
+| [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +74,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0013-roman-to-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0567-permutation-in-string) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
+| [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +165,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
