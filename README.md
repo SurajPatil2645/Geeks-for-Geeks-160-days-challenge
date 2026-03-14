@@ -51,6 +51,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0240-search-a-2d-matrix-ii](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -73,6 +74,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0567-permutation-in-string) |
 | [1364-tuple-with-same-product](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1364-tuple-with-same-product) |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2965-find-missing-and-repeated-values) |
@@ -154,6 +156,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
 | ------- |
