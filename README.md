@@ -20,6 +20,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0204-count-primes](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1137-n-th-tribonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -71,6 +72,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0053-maximum-subarray](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,4 +192,5 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
