@@ -46,6 +46,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0054-spiral-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0136-single-number) |
@@ -156,6 +157,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -193,4 +195,8 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0509-fibonacci-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/1137-n-th-tribonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
