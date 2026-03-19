@@ -202,4 +202,20 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | ------- |
 | [0078-subsets](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
