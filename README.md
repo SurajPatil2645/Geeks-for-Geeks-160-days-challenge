@@ -206,10 +206,12 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,4 +220,13 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
