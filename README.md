@@ -9,6 +9,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0002-add-two-numbers](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@ This repository serves as a collection of my solutions to various GeeksforGeeks 
 | [0344-reverse-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/SurajPatil2645/Geeks-for-Geeks-160-days-challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
